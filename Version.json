@@ -333,69 +333,6 @@
                     "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl_util/2.9.4-nightly-20150209/lwjgl_util-2.9.4-nightly-20150209.jar"
                 }
             }
-        },
-        {
-            "extract": {
-                "exclude": [
-                    "META-INF/"
-                ]
-            },
-            "name": "org.lwjgl.lwjgl:lwjgl-platform:2.9.4-nightly-20150209",
-            "natives": {
-                "linux": "natives-linux",
-                "windows": "natives-windows"
-            },
-            "downloads": {
-                "classifiers": {
-                    "natives-linux": {
-                        "size": 578680,
-                        "sha1": "931074f46c795d2f7b30ed6395df5715cfd7675b",
-                        "path": "org/lwjgl/lwjgl/lwjgl-platform/2.9.4-nightly-20150209/lwjgl-platform-2.9.4-nightly-20150209-natives-linux.jar",
-                        "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl-platform/2.9.4-nightly-20150209/lwjgl-platform-2.9.4-nightly-20150209-natives-linux.jar"
-                    },
-                    "natives-windows": {
-                        "size": 613748,
-                        "sha1": "b84d5102b9dbfabfeb5e43c7e2828d98a7fc80e0",
-                        "path": "org/lwjgl/lwjgl/lwjgl-platform/2.9.4-nightly-20150209/lwjgl-platform-2.9.4-nightly-20150209-natives-windows.jar",
-                        "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl-platform/2.9.4-nightly-20150209/lwjgl-platform-2.9.4-nightly-20150209-natives-windows.jar"
-                    }
-                },
-                "artifact": {
-                    "size": 22,
-                    "sha1": "b04f3ee8f5e43fa3b162981b50bb72fe1acabb33",
-                    "path": "org/lwjgl/lwjgl/lwjgl-platform/2.9.4-nightly-20150209/lwjgl-platform-2.9.4-nightly-20150209.jar",
-                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl-platform/2.9.4-nightly-20150209/lwjgl-platform-2.9.4-nightly-20150209.jar"
-                }
-            }
-        },
-        
-        {
-            "extract": {
-                "exclude": [
-                    "META-INF/"
-                ]
-            },
-            "name": "net.java.jinput:jinput-platform:2.0.5",
-            "natives": {
-                "linux": "natives-linux",
-                "windows": "natives-windows"
-            },
-            "downloads": {
-                "classifiers": {
-                    "natives-linux": {
-                        "size": 10362,
-                        "sha1": "7ff832a6eb9ab6a767f1ade2b548092d0fa64795",
-                        "path": "net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-linux.jar",
-                        "url": "https://libraries.minecraft.net/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-linux.jar"
-                    },
-                    "natives-windows": {
-                        "size": 155179,
-                        "sha1": "385ee093e01f587f30ee1c8a2ee7d408fd732e16",
-                        "path": "net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-windows.jar",
-                        "url": "https://libraries.minecraft.net/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-windows.jar"
-                    }
-                }
-            }
         }
     ],
     "logging": {
