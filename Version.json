@@ -27,15 +27,15 @@
     "id": "1.8.9",
     "libraries": [
         {
-            "name": "com.mojang:netty:1.6",
-            "downloads": {
-                "artifact": {
-                    "size": 7877,
-                    "sha1": "4b75825a06139752bd800d9e29c5fd55b8b1b1e4",
-                    "path": "com/mojang/netty/1.6/netty-1.6.jar",
-                    "url": "https://libraries.minecraft.net/com/mojang/netty/1.6/netty-1.6.jar"
-                }
-            }
+			"name": "com.mojang:netty:1.7.7",
+			"downloads": {
+				"artifact": {
+					"path": "com/mojang/netty/1.7.7/netty-1.7.7.jar",
+					"sha1": "dc4a57fabcfdfc66420751f29cda96644d0294f7",
+					"size": 14725,
+					"url": "https://libraries.minecraft.net/com/mojang/netty/1.7.7/netty-1.7.7.jar"
+				}
+			}
         },
         {
             "name": "oshi-project:oshi-core:1.1",
@@ -291,24 +291,24 @@
             }
         },
         {
-            "name": "org.apache.logging.log4j:log4j-api:2.0-beta9",
+            "name": "org.apache.logging.log4j:log4j-api:2.15.0",
             "downloads": {
                 "artifact": {
                     "size": 108161,
-                    "sha1": "1dd66e68cccd907880229f9e2de1314bd13ff785",
-                    "path": "org/apache/logging/log4j/log4j-api/2.0-beta9/log4j-api-2.0-beta9.jar",
-                    "url": "https://libraries.minecraft.net/org/apache/logging/log4j/log4j-api/2.0-beta9/log4j-api-2.0-beta9.jar"
+                    "sha1": "42319af9991a86b4475ab3316633a3d03e2d29e1",
+                    "path": "org/apache/logging/log4j/log4j-api/2.15.0/log4j-api-2.15.0.jar",
+                    "url": "https://raw.githubusercontent.com/Onion-Client/LauncherFiles/main/log4j-api-2.15.0.jar"
                 }
             }
         },
         {
-            "name": "org.apache.logging.log4j:log4j-core:2.0-beta9",
+            "name": "org.apache.logging.log4j:log4j-core:2.15.0",
             "downloads": {
                 "artifact": {
                     "size": 681134,
-                    "sha1": "678861ba1b2e1fccb594bb0ca03114bb05da9695",
-                    "path": "org/apache/logging/log4j/log4j-core/2.0-beta9/log4j-core-2.0-beta9.jar",
-                    "url": "https://libraries.minecraft.net/org/apache/logging/log4j/log4j-core/2.0-beta9/log4j-core-2.0-beta9.jar"
+                    "sha1": "9bd89149d5083a2a3ab64dcc88b0227da14152ec",
+                    "path": "org/apache/logging/log4j/log4j-core/2.15.0/log4j-core-2.15.0.jar",
+                    "url": "https://raw.githubusercontent.com/Onion-Client/LauncherFiles/main/log4j-core-2.15.0.jar"
                 }
             }
         },
