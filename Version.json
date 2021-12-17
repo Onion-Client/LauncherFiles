@@ -291,24 +291,24 @@
             }
         },
         {
-            "name": "org.apache.logging.log4j:log4j-api:2.15.0",
+            "name": "org.apache.logging.log4j:log4j-api:2.16.0",
             "downloads": {
                 "artifact": {
                     "size": 108161,
                     "sha1": "42319af9991a86b4475ab3316633a3d03e2d29e1",
-                    "path": "org/apache/logging/log4j/log4j-api/2.15.0/log4j-api-2.15.0.jar",
-                    "url": "https://raw.githubusercontent.com/Onion-Client/LauncherFiles/main/log4j-api-2.15.0.jar"
+                    "path": "org/apache/logging/log4j/log4j-api/2.16.0/log4j-api-2.16.0.jar",
+                    "url": "https://raw.githubusercontent.com/Onion-Client/LauncherFiles/main/log4j-api-2.16.0.jar"
                 }
             }
         },
         {
-            "name": "org.apache.logging.log4j:log4j-core:2.15.0",
+            "name": "org.apache.logging.log4j:log4j-core:2.16.0",
             "downloads": {
                 "artifact": {
                     "size": 681134,
-                    "sha1": "9bd89149d5083a2a3ab64dcc88b0227da14152ec",
-                    "path": "org/apache/logging/log4j/log4j-core/2.15.0/log4j-core-2.15.0.jar",
-                    "url": "https://raw.githubusercontent.com/Onion-Client/LauncherFiles/main/log4j-core-2.15.0.jar"
+                    "sha1": "9bd89149d5083a2a3ab64dcc88b0227da14162ec",
+                    "path": "org/apache/logging/log4j/log4j-core/2.16.0/log4j-core-2.16.0.jar",
+                    "url": "https://raw.githubusercontent.com/Onion-Client/LauncherFiles/main/log4j-core-2.16.0.jar"
                 }
             }
         },
