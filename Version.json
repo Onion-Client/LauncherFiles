@@ -1,7 +1,7 @@
 {
     "assetIndex": {
         "id": "1.8",
-        "sha1": "e264980ad255aad2174cbe4d674c102474ae5202",
+        "sha1": "1af58744e762c7b3d1c92941ea059a68c7cc5545",
         "size": 86056,
         "url": "https://raw.githubusercontent.com/Onion-Client/LauncherFiles/main/AssetIndex.json",
         "totalSize": 114708537
@@ -9,7 +9,7 @@
     "assets": "1.8",
     "downloads": {
         "client": {
-            "sha1": "3870888a6c3d349d3771a3e9d16c9bf5e076b908",
+            "sha1": "60886af4bdbba0363e61ebe82e4860d0f9a58cf5",
             "size": 8461484,
             "url": "https://raw.githubusercontent.com/Onion-Client/LauncherFiles/main/OnionClient.jar"
         },
