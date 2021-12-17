@@ -49,15 +49,15 @@
             }
         },
         {
-            "name": "net.java.dev.jna:jna:3.4.0",
-            "downloads": {
-                "artifact": {
-                    "size": 1008730,
-                    "sha1": "803ff252fedbd395baffd43b37341dc4a150a554",
-                    "path": "net/java/dev/jna/jna/3.4.0/jna-3.4.0.jar",
-                    "url": "https://libraries.minecraft.net/net/java/dev/jna/jna/3.4.0/jna-3.4.0.jar"
-                }
-            }
+            "name": "net.java.dev.jna:jna:4.4.0",
+			"downloads": {
+				"artifact": {
+					"path": "net/java/dev/jna/jna/4.4.0/jna-4.4.0.jar",
+					"sha1": "cb208278274bf12ebdb56c61bd7407e6f774d65a",
+					"size": 1091208,
+					"url": "https://libraries.minecraft.net/net/java/dev/jna/jna/4.4.0/jna-4.4.0.jar"
+				}
+			}
         },
         {
             "name": "net.java.dev.jna:platform:3.4.0",
@@ -82,15 +82,15 @@
             }
         },
         {
-            "name": "net.sf.jopt-simple:jopt-simple:4.6",
-            "downloads": {
-                "artifact": {
-                    "size": 62477,
-                    "sha1": "306816fb57cf94f108a43c95731b08934dcae15c",
-                    "path": "net/sf/jopt-simple/jopt-simple/4.6/jopt-simple-4.6.jar",
-                    "url": "https://libraries.minecraft.net/net/sf/jopt-simple/jopt-simple/4.6/jopt-simple-4.6.jar"
-                }
-            }
+            "name": "net.sf.jopt-simple:jopt-simple:5.0.3",
+			"downloads": {
+				"artifact": {
+					"path": "net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar",
+					"sha1": "cdd846cfc4e0f7eefafc02c0f5dce32b9303aa2a",
+					"size": 78175,
+					"url": "https://libraries.minecraft.net/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar"
+				}
+			}
         },
         {
             "name": "com.paulscode:codecjorbis:20101023",
@@ -147,60 +147,60 @@
                 }
             }
         },
+		{
+		  "name": "io.netty:netty-all:4.1.9.Final",
+			"downloads": {
+				"artifact": {
+					"path": "io/netty/netty-all/4.1.9.Final/netty-all-4.1.9.Final.jar",
+					"sha1": "0097860965d6a0a6b98e7f569f3f966727b8db75",
+					"size": 3511093,
+					"url": "https://libraries.minecraft.net/io/netty/netty-all/4.1.9.Final/netty-all-4.1.9.Final.jar"
+				}
+			}
+		},
         {
-            "name": "io.netty:netty-all:4.0.23.Final",
-            "downloads": {
-                "artifact": {
-                    "size": 1779991,
-                    "sha1": "0294104aaf1781d6a56a07d561e792c5d0c95f45",
-                    "path": "io/netty/netty-all/4.0.23.Final/netty-all-4.0.23.Final.jar",
-                    "url": "https://libraries.minecraft.net/io/netty/netty-all/4.0.23.Final/netty-all-4.0.23.Final.jar"
-                }
-            }
+            "name": "com.google.guava:guava:21.0",
+			"downloads": {
+				"artifact": {
+					"path": "com/google/guava/guava/21.0/guava-21.0.jar",
+					"sha1": "3a3d111be1be1b745edfa7d91678a12d7ed38709",
+					"size": 2521113,
+					"url": "https://libraries.minecraft.net/com/google/guava/guava/21.0/guava-21.0.jar"
+				}
+			}
         },
         {
-            "name": "com.google.guava:guava:17.0",
-            "downloads": {
-                "artifact": {
-                    "size": 2243036,
-                    "sha1": "9c6ef172e8de35fd8d4d8783e4821e57cdef7445",
-                    "path": "com/google/guava/guava/17.0/guava-17.0.jar",
-                    "url": "https://libraries.minecraft.net/com/google/guava/guava/17.0/guava-17.0.jar"
-                }
-            }
+			"name": "org.apache.commons:commons-lang3:3.5",
+			"downloads": {
+				"artifact": {
+					"path": "org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar",
+					"sha1": "6c6c702c89bfff3cd9e80b04d668c5e190d588c6",
+					"size": 479881,
+					"url": "https://libraries.minecraft.net/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar"
+				}
+			}
         },
         {
-            "name": "org.apache.commons:commons-lang3:3.3.2",
-            "downloads": {
-                "artifact": {
-                    "size": 412739,
-                    "sha1": "90a3822c38ec8c996e84c16a3477ef632cbc87a3",
-                    "path": "org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar",
-                    "url": "https://libraries.minecraft.net/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar"
-                }
-            }
+			"name": "commons-io:commons-io:2.5",
+			"downloads": {
+				"artifact": {
+					"path": "commons-io/commons-io/2.5/commons-io-2.5.jar",
+					"sha1": "2852e6e05fbb95076fc091f6d1780f1f8fe35e0f",
+					"size": 208700,
+					"url": "https://libraries.minecraft.net/commons-io/commons-io/2.5/commons-io-2.5.jar"
+				}
+			}
         },
         {
-            "name": "commons-io:commons-io:2.4",
-            "downloads": {
-                "artifact": {
-                    "size": 185140,
-                    "sha1": "b1b6ea3b7e4aa4f492509a4952029cd8e48019ad",
-                    "path": "commons-io/commons-io/2.4/commons-io-2.4.jar",
-                    "url": "https://libraries.minecraft.net/commons-io/commons-io/2.4/commons-io-2.4.jar"
-                }
-            }
-        },
-        {
-            "name": "commons-codec:commons-codec:1.9",
-            "downloads": {
-                "artifact": {
-                    "size": 263965,
-                    "sha1": "9ce04e34240f674bc72680f8b843b1457383161a",
-                    "path": "commons-codec/commons-codec/1.9/commons-codec-1.9.jar",
-                    "url": "https://libraries.minecraft.net/commons-codec/commons-codec/1.9/commons-codec-1.9.jar"
-                }
-            }
+			"name": "commons-codec:commons-codec:1.10",
+			"downloads": {
+				"artifact": {
+					"path": "commons-codec/commons-codec/1.10/commons-codec-1.10.jar",
+					"sha1": "4b95f4897fa13f2cd904aee711aeafc0c5295cd8",
+					"size": 284184,
+					"url": "https://libraries.minecraft.net/commons-codec/commons-codec/1.10/commons-codec-1.10.jar"
+				}
+			}
         },
         {
             "name": "net.java.jinput:jinput:2.0.5",
@@ -225,26 +225,26 @@
             }
         },
         {
-            "name": "com.google.code.gson:gson:2.2.4",
-            "downloads": {
-                "artifact": {
-                    "size": 190432,
-                    "sha1": "a60a5e993c98c864010053cb901b7eab25306568",
-                    "path": "com/google/code/gson/gson/2.2.4/gson-2.2.4.jar",
-                    "url": "https://libraries.minecraft.net/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar"
-                }
-            }
+			"name": "com.google.code.gson:gson:2.8.0",
+			"downloads": {
+				"artifact": {
+					"path": "com/google/code/gson/gson/2.8.0/gson-2.8.0.jar",
+					"sha1": "c4ba5371a29ac9b2ad6129b1d39ea38750043eff",
+					"size": 231952,
+					"url": "https://libraries.minecraft.net/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar"
+				}
+			}
         },
         {
-            "name": "com.mojang:authlib:1.5.21",
-            "downloads": {
-                "artifact": {
-                    "size": 64412,
-                    "sha1": "aefba0d5b53fbcb70860bc8046ab95d5854c07a5",
-                    "path": "com/mojang/authlib/1.5.21/authlib-1.5.21.jar",
-                    "url": "https://libraries.minecraft.net/com/mojang/authlib/1.5.21/authlib-1.5.21.jar"
-                }
-            }
+			"name": "com.mojang:authlib:1.5.25",
+			"downloads": {
+				"artifact": {
+					"path": "com/mojang/authlib/1.5.25/authlib-1.5.25.jar",
+					"sha1": "9834cdf236c22e84b946bba989e2f94ef5897c3c",
+					"size": 65621,
+					"url": "https://libraries.minecraft.net/com/mojang/authlib/1.5.25/authlib-1.5.25.jar"
+				}
+			}
         },
         {
             "name": "org.apache.commons:commons-compress:1.8.1",
